@@ -1,5 +1,8 @@
-# Household-data-analysis
+## Household-data-analysis
 EDA on Household data using python and its libraries.
+
+## Objective
+Objective of this analysis is perform EDA on the given dataset and draw useful conclusions about general trends in California housing database and how factors governing  interact with each other.
 
 ## Dataset
 Data consists of 20640 rows and 10 features:
@@ -37,3 +40,6 @@ Performed EDA and tried answering the following questions:
 8. Create a data set for which the ocean_proximity is ‘Near ocean’.
 9. Find the mean and median of the median income for the data set created in question 8.
 10. Please create a new column named total_bedroom_size. If the total bedrooms is 10 or less, it should be quoted as small. If the total bedrooms is 11 or more but less than 1000, it should be medium, otherwise it should be considered large.
+
+## Key Insights
+
