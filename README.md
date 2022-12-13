@@ -1,7 +1,30 @@
 # Household-data-analysis
 EDA on Household data using python and its libraries.
+
+## Dataset
+Data consists of 20640 rows and 10 features:
+
+longitude: A measure of how far west a house is; a higher value is farther west
+
+latitude: A measure of how far north a house is; a higher value is farther north
+
+housingMedianAge: Median age of a house within a block; a lower number is a newer building totalRooms: Total number of rooms within a block
+
+totalBedrooms: Total number of bedrooms within a block
+
+population: Total number of people residing within a block
+
+households: Total number of households, a group of people residing within a home unit, for a block
+
+medianIncome: Median income for households within a block of houses (measured in tens of thousands of US Dollars)
+
+medianHouseValue: Median house value for households within a block (measured in US Dollars)
+
+oceanProximity: Location of the
+
 ## code files
 [Household data analysis.ipynb](https://github.com/ajaydpk123/Household-data-analysis/tree/master/CODE)
+
 ## Exploratory Data Analysis
 Performed EDA and tried answering the following questions:
 1. What is the average median income of the data set and check the distribution of data using appropriate plots. Please explain the distribution of the plot.
